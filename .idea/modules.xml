@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jdk1.6.0_45/db/demo/demo.iml" filepath="$PROJECT_DIR$/jdk1.6.0_45/db/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/j2me_compiler.iml" filepath="$PROJECT_DIR$/.idea/j2me_compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk1.6.0_45/db/demo/programs/localcal/localcal.iml" filepath="$PROJECT_DIR$/jdk1.6.0_45/db/demo/programs/localcal/localcal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk1.6.0_45/db/demo/programs/programs.iml" filepath="$PROJECT_DIR$/jdk1.6.0_45/db/demo/programs/programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk1.6.0_45/db/demo/programs/scores/scores.iml" filepath="$PROJECT_DIR$/jdk1.6.0_45/db/demo/programs/scores/scores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk1.6.0_45/db/demo/programs/vtis/vtis.iml" filepath="$PROJECT_DIR$/jdk1.6.0_45/db/demo/programs/vtis/vtis.iml" />
+    </modules>
+  </component>
+</project>

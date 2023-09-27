@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="modules">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jdk1.6.0_45/lib/visualvm/profiler/modules/org-netbeans-lib-profiler-ui.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.6.0_45/lib/visualvm/profiler/modules/org-netbeans-modules-profiler-oql.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.6.0_45/lib/visualvm/profiler/modules/org-netbeans-lib-profiler-charts.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.6.0_45/lib/visualvm/profiler/modules/org-netbeans-modules-profiler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.6.0_45/lib/visualvm/profiler/modules/org-netbeans-lib-profiler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.6.0_45/lib/visualvm/profiler/modules/org-netbeans-lib-profiler-common.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

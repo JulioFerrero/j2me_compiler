@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="wtklib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/wtklib/lime.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/wtklib/customjmf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/wtklib/kdp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/wtklib/JainSipApi1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/wtklib/ktools.zip!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/wtklib/kvem.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/wtklib/nist-sip-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/wtklib/jain-sip-presence-proxy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/wtklib/gcf-op.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/wtklib/kenv.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

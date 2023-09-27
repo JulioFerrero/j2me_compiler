@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/lib/jsr238.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/lib/jsr234.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/lib/cldcapi10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/lib/jsr211.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/lib/satsa-jcrmi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/lib/jsr184.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/lib/midpapi10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/lib/jsr229.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/lib/satsa-apdu.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/lib/jsr179.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/lib/satsa-pki.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/lib/cldcapi11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/lib/jsr082.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/lib/jsr180.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/lib/jsr75.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/lib/midpapi20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/lib/j2me-ws.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/lib/wma20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/lib/wma11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/lib/jsr226.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/lib/jsr239.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/lib/midpapi21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/lib/mmapi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/lib/j2me-xmlrpc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WTK2.5.2/lib/satsa-crypto.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

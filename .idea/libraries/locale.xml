@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="locale">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jdk1.6.0_45/lib/visualvm/profiler/modules/locale/org-netbeans-lib-profiler_zh_CN.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.6.0_45/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profiler_zh_CN.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.6.0_45/lib/visualvm/profiler/modules/locale/org-netbeans-lib-profiler_ja.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.6.0_45/lib/visualvm/profiler/modules/locale/org-netbeans-lib-profiler-ui_zh_CN.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.6.0_45/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profiler-oql_zh_CN.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.6.0_45/lib/visualvm/profiler/modules/locale/org-netbeans-lib-profiler-charts_zh_CN.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.6.0_45/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profiler-oql_ja.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.6.0_45/lib/visualvm/profiler/modules/locale/org-netbeans-lib-profiler-charts_ja.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.6.0_45/lib/visualvm/profiler/modules/locale/org-netbeans-lib-profiler-ui_ja.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.6.0_45/lib/visualvm/profiler/modules/locale/org-netbeans-lib-profiler-common_zh_CN.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.6.0_45/lib/visualvm/profiler/modules/locale/org-netbeans-modules-profiler_ja.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.6.0_45/lib/visualvm/profiler/modules/locale/org-netbeans-lib-profiler-common_ja.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

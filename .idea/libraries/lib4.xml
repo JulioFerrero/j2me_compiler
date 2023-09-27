@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="lib4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jdk1.6.0_45/jre/lib/management-agent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.6.0_45/jre/lib/deploy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.6.0_45/jre/lib/plugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.6.0_45/jre/lib/jsse.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.6.0_45/jre/lib/alt-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.6.0_45/jre/lib/javaws.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.6.0_45/jre/lib/resources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.6.0_45/jre/lib/charsets.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.6.0_45/jre/lib/rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.6.0_45/jre/lib/jce.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.6.0_45/jre/lib/alt-string.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
